@@ -21,6 +21,7 @@ B7 PS C:\Users\Manh Hao\Downloads\trung-tam-tieng-anh\docs> cp ..\media\anh_lop_
 B8 PS C:\Users\Manh Hao\Downloads\trung-tam-tieng-anh> dir -r
 Kết quả B1 (pwd)
 ```
+```
  Directory: C:\Users\Manh Hao\Downloads\trung-tam-tieng-anh
 Mode                 LastWriteTime         Length Name
 ----                 -------------         ------ ----
@@ -37,7 +38,8 @@ d-----        10/20/2026  10:28 AM                media
 -a----        10/20/2026  10:16 AM             22 temp_201.tmp
 -a----        10/20/2026  10:16 AM             22 temp_202.tmp
 Kết quả liệt kê toàn bộ dự án – B8 (Windows: Get-ChildItem -Recurse -Force; macOS: ls -aR)
-
+```
+```
     Directory: C:\Users\Manh Hao\Downloads\trung-tam-tieng-anh
 
 
@@ -92,4 +94,4 @@ Mode                 LastWriteTime         Length Name
 ----                 -------------         ------ ----
 -a----        10/20/2026  10:16 AM          13559 anh_lop_hoc.JPG
 -a----        10/20/2026  10:16 AM           5184 logo_trung_tam.PNG
-
+```
