@@ -1,7 +1,7 @@
 # BÀI LÀM – ÔN TẬP NGÀY 1
 
 - **Họ tên:** Tô Mạnh Hào
-- **Lớp:** 
+- **Lớp:** CNTT1
 - **Link repository:**
 - **Hệ điều hành (Windows/macOS):** Windows
 
